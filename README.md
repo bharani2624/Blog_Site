@@ -1,5 +1,23 @@
 # Blog Site 
 
+> [!NOTE]
+``` 
+git clone https://github.com/bharani2624/Blog_Site
+cd Blog_Site
+npm i vite
+cd backend
+npm install express mysql cors body-parser bcrypt jsonwebtoken
+cd ..
+cd blog
+npm install -D tailwindcss postcss autoprefixer
+npm install axios react-router-dom
+npm run dev
+cd ..
+npm start
+
+
+Kindly Import The Tables To Your SQL
+```
 ## Images
 
 ### LOGIN
