@@ -1,6 +1,6 @@
 # Blog Site 
 
-> [!NOTE]
+[!NOTE]
 ``` 
 git clone https://github.com/bharani2624/Blog_Site
 cd Blog_Site
@@ -8,7 +8,7 @@ npm i vite
 cd backend
 npm install express mysql cors body-parser bcrypt jsonwebtoken
 or
-npm i (alone)
+npm i (run this alone)
 cd ..
 cd blog
 npm install -D tailwindcss postcss autoprefixer
@@ -16,10 +16,11 @@ npm install axios react-router-dom
 
 or 
 
-npm i (alone)
+npm i (run this alone)
 
 npm run dev
 cd ..
+cd backend
 npm start
 
 
