@@ -7,10 +7,17 @@ cd Blog_Site
 npm i vite
 cd backend
 npm install express mysql cors body-parser bcrypt jsonwebtoken
+or
+npm i (alone)
 cd ..
 cd blog
 npm install -D tailwindcss postcss autoprefixer
 npm install axios react-router-dom
+
+or 
+
+npm i (alone)
+
 npm run dev
 cd ..
 npm start
